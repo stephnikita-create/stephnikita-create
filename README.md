@@ -38,3 +38,7 @@ Environnement desktop Linux développé en Python / PyQt6 dans le cadre de ma re
 ---
 
 💡 J’apprends à travers des projets concrets et une pratique quotidienne du développement Python et Linux.
+
+## 🎯 Objectif
+
+Construire des projets concrets pour développer mes compétences en Python, Linux et développement logiciel dans le cadre de ma reconversion vers l’informatique.
