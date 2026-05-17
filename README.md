@@ -41,4 +41,4 @@ Projet personnel de développement d’un environnement desktop Linux en Python 
 
 ## 🎯 Objectif professionnel
 
-Développeur Python junior en reconversion, je construis des projets concrets pour renforcer mes compétences en Python, Linux et développement logiciel.
+Développeur Python junior en reconversion vers le développement logiciel, je construis des projets concrets pour renforcer mes compétences en Python, Linux et interfaces desktop avec PyQt6.
