@@ -39,6 +39,6 @@ Projet personnel de développement d’un environnement desktop Linux en Python 
 
 💡 J’apprends à travers des projets concrets et une pratique quotidienne du développement Python et Linux.
 
-## 🎯 Objectif
+## 🎯 Objectif professionnel
 
-Construire des projets concrets pour développer mes compétences en Python, Linux et développement logiciel dans le cadre de ma reconversion vers l’informatique.
+Développeur Python junior en reconversion, je construis des projets concrets pour renforcer mes compétences en Python, Linux et développement logiciel.
