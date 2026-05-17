@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Bonjour, moi c’est Stéphane
 
-<!--
-**stephnikita-create/stephnikita-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Python junior en reconversion vers le développement informatique.
 
-Here are some ideas to get you started:
+## 🖥️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Projet principal
+
+### OSHackerBlaze Showcase
+
+Projet personnel de développement d’un environnement desktop Linux en Python/PyQt6.
+
+🔗 Projet visible ici :  
+[OSHackerBlaze Showcase](https://github.com/stephnikita-create/OSHackerBlaze-Showcase)
+
+---
+
+## 📚 En apprentissage
+
+- Architecture logicielle
+- Linux / Ubuntu
+- PyQt6
+- Git / GitHub
+- Bonnes pratiques de développement
+- Modularisation du code
+
+---
+
+💡 J’apprends à travers des projets concrets et une pratique quotidienne du développement Python et Linux.
