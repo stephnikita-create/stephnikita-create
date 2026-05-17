@@ -2,6 +2,8 @@
 
 Développeur Python junior en reconversion vers le développement informatique.
 
+🖥️ Python • PyQt6 • Linux • Git • GitHub
+
 ## 🖥️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
