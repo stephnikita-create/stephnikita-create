@@ -19,7 +19,7 @@ Développeur Python junior en reconversion vers le développement informatique.
 
 ### 🖥️ OSHackerBlaze Showcase
 
-Environnement desktop Linux développé en Python / PyQt6 dans le cadre de ma reconversion vers le développement informatique.
+Projet personnel de développement d’un environnement desktop Linux en Python / PyQt6, utilisé pour progresser sur l’architecture logicielle, les interfaces graphiques et Linux.
 
 🔗 Voir le projet :  
 [OSHackerBlaze Showcase](https://github.com/stephnikita-create/OSHackerBlaze-Showcase)
