@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c’est Stéphane
 
-Développeur Python junior en reconversion vers le développement informatique.
+Développeur Python junior en reconversion vers le développement informatique, avec une forte motivation pour apprendre et construire des projets concrets autour de Python, Linux et des interfaces desktop.
 
 🖥️ Python • PyQt6 • Linux • Git • GitHub
 
